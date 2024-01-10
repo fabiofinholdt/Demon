@@ -1,7 +1,7 @@
 #EXTINF:-1 tvg-id="GLOBO SP HD" tvg-country="BR" tvg-logo="http://esrv.cc:80/images/9d6a87673c5205823f11ee7a717b03a7.png" group-title="GLOBO",
-http://esrv.cc:80/eduardo002/72836392/223.ts
+http://esrv.cc:80/eduardo002/72836392/223.m3u8
 
-#EXTINF:-1 tvg-id="GLOBO Bahia" tvg-country="BR" tvg-logo="http://esrv.cc:80/images/9d6a87673c5205823f11ee7a717b03a7.png" group-title="GLOBO",
+#EXTINF:-1 tvg-id="GLOBO Bahia" tvg-country="BR" tvg-logo="http://esrv.cc:80/images/9d6a87673c5205823f11ee7a717b03a7.png" group-title="GLOBO",GLOBO Bahia
 https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8
 
 #EXTINF:-1 group-title="GLOBO",GLOBO
