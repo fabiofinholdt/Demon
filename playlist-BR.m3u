@@ -1,4 +1,55 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Globo SP" tvg-logo="https://i.imgur.com/riPhgAf.jpg" group-title="APEXIPTV CANAIS" pltv-subgroup="TV ABERTA",Globo SP HD
+http://tv.ec.cx:1935/redecanais-stream-bobo/myStream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Globo SP" tvg-logo="https://i.imgur.com/riPhgAf.jpg" group-title="APEXIPTV CANAIS" pltv-subgroup="TV ABERTA",Globo SP
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/875.ts
+
+#EXTINF:-1 tvg-id="Globo RJ" tvg-logo="https://i.imgur.com/riPhgAf.jpg" group-title="APEXIPTV CANAIS" pltv-subgroup="TV ABERTA",Globo RJ
+http://w02.duoplay.xyz:80/062/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Globo RJ" tvg-logo="https://i.imgur.com/riPhgAf.jpg" group-title="APEXIPTV CANAIS" pltv-subgroup="TV ABERTA",Globo RJ
+http://95.141.32.213:8081/looktvs/globo/playlist.m3u8?
+
+
+#EXTINF:-1 tvg-id="Globo" tvg-logo="https://i.imgur.com/riPhgAf.jpg" group-title="APEXIPTV CANAIS" pltv-subgroup="TV ABERTA",Globo Nordeste
+http://tv.ec.cx:1935/redecanais-stream-bobo/myStream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="SBT SP" tvg-logo="https://i.imgur.com/xvGiIqn.jpg" group-title="APEXIPTV CANAIS" pltv-subgroup="TV ABERTA",SBT SP
+http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBT RS" tvg-logo="https://i.imgur.com/xvGiIqn.jpg" group-title="APEXIPTV CANAIS" pltv-subgroup="TV ABERTA",SBT RS
+http://srv6.zoeweb.tv:1935/z343-live/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBT PI" tvg-logo="https://i.imgur.com/xvGiIqn.jpg" group-title="APEXIPTV CANAIS" pltv-subgroup="TV ABERTA",SBT PI
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBT" tvg-logo="https://i.imgur.com/xvGiIqn.jpg" group-title="APEXIPTV CANAIS" pltv-subgroup="TV ABERTA",SBT PE Caruaru
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Band" tvg-logo="https://i.imgur.com/8kSTnrr.jpg" group-title="APEXIPTV CANAIS" pltv-subgroup="TV ABERTA",Band
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/948.ts
+
+#EXTINF:-1 tvg-id="BandHD" tvg-logo="https://i.imgur.com/8kSTnrr.jpg" group-title="APEXIPTV CANAIS" pltv-subgroup="TV ABERTA",Band HD
+http://158.58.172.5:8081/look/band/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Record News" tvg-logo="https://i.imgur.com/g5JYTWp.jpg" group-title="APEXIPTV CANAIS" pltv-subgroup="TV ABERTA",Record News HD
+http://stmv4.srvstm.com:1935/recordnewses/recordnewses/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Record" tvg-logo="https://i.imgur.com/g5JYTWp.jpg" group-title="APEXIPTV CANAIS" pltv-subgroup="TV ABERTA",Record 
+http://158.58.172.5:8081/look/recordy/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Record News" tvg-logo="https://i.imgur.com/g5JYTWp.jpg" group-title="APEXIPTV CANAIS" pltv-subgroup="TV ABERTA",Record News 
+http://bit.ly/2iRHPQg
+
+#EXTINF:-1 tvg-id="Rede TV " tvg-logo="https://i.imgur.com/m8Fw6Kv.jpg" group-title="APEXIPTV CANAIS" pltv-subgroup="TV ABERTA",Rede TV 
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1201997130.m3u8
+
+#EXTINF:-1 tvg-id="CULTURA" tvg-logo="https://i.imgur.com/7jF9Qrr.jpg" group-title="APEXIPTV CANAIS" pltv-subgroup="TV ABERTA",CULTURA
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/925.ts
+
+#EXTINF:-1 tvg-id="FULTURA" tvg-logo="https://i.imgur.com/nSeK5bl.jpg" group-title="APEXIPTV CANAIS" pltv-subgroup="TV ABERTA",FUTURA
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/chunklist_w19089781.m3u8
 #EXTINF:-1 tvg-id="1001Noites.br" tvg-logo="https://i.imgur.com/dWA9y2J.png" group-title="Shop",1001 Noites
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AdessoTV.br" tvg-logo="https://i.imgur.com/KgetM8j.png" group-title="General",Adesso TV
